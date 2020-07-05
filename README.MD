@@ -5,3 +5,12 @@ Archivo readme.
 #### h4
 ##### h5
 ###### h6
+aaaaaaaaaaa
+-------------------
+bbbbbbbbbbbbbbbbb
+==================
+-*italica*
+---------------
+-_italica_
+- **bold/strong**
+- ~~tachado~~ 
